@@ -6,7 +6,7 @@
 - [VPS](https://github.com/matheuslopes125/Press-Ticket/blob/master/docs/INSTALL_VPS.md);
 - [Instalador Automático](https://github.com/matheuslopes125/install_pressticket-phpmyadmin);
 - [phpmyadmin](https://github.com/matheuslopes125/Press-Ticket/blob/main/docs/INSTALL_phpmyadmin.md);
-- [Fuso Horário](https://github.com/matheuslopes125/Press-Ticket/blob/main/docs/INSTALL_horarioVPS.md).
+- [Fuso Horário](https://github.com/matheuslopes125/Press-Ticket/blob/master/docs/INSTALL_horarioVPS.md).
 
 ## Requisitos
 
